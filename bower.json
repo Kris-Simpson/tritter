@@ -1,0 +1,21 @@
+{
+  "name": "tritter",
+  "homepage": "https://github.com/Kris-Simpson/tritter",
+  "authors": [
+    "Kris-Simpson <the.same.kris@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.6.3",
+    "angular-ui-router": "^0.4.2"
+  }
+}
